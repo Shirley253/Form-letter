@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+  margin: 5%;
+}
+
+body{
+  background-color: #BEE9E7;
+}
+
+#letter {
+  display: none;
+  margin: 10%;
+}
